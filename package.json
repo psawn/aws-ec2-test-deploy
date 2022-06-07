@@ -1,0 +1,23 @@
+{
+  "name": "aws-ec2-test-deploy",
+  "version": "1.0.0",
+  "description": "Test aws ec2 deploy",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psawn/aws-ec2-test-deploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psawn/aws-ec2-test-deploy/issues"
+  },
+  "homepage": "https://github.com/psawn/aws-ec2-test-deploy#readme"
+}
