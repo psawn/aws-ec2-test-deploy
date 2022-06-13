@@ -4,7 +4,11 @@
   "description": "Test aws ec2 deploy",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.18.1"
+    "aws-sdk": "^2.1152.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "multer": "^1.4.5-lts.1",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {},
   "scripts": {
